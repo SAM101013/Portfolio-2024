@@ -7,7 +7,7 @@ header {
   text-align: center;
   transform: rotate;
   transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
-  font-family: "Stick", sans-serif;
+  font-family: 'Bruno Ace SC', sans-serif;
 }
 
 nav {
@@ -15,7 +15,7 @@ nav {
   justify-content: center;
   background-color: #000000;
   padding: 10px;
-  font-family: "Stick", sans-serif;
+  font-family: 'Bruno Ace SC', sans-serif;
 }
 
 nav a {
@@ -24,7 +24,7 @@ nav a {
   padding: 10px 20px;
   margin: 0 10px;
   font-weight: bold;
-  font-family: "Stick", sans-serif;
+  font-family: 'Bruno Ace SC', sans-serif;
 }
 
 .main-content {
@@ -64,7 +64,7 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  font-family: "Stick", sans-serif;
+ font-family: 'Bruno Ace SC', sans-serif;
 }
 
 .image-section {
